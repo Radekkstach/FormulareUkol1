@@ -1,0 +1,11 @@
+C:\Users\Uživatel\Desktop\programko\FormuraleUkol1\FormuraleUkol1\bin\Debug\FormuraleUkol1.exe.config
+C:\Users\Uživatel\Desktop\programko\FormuraleUkol1\FormuraleUkol1\bin\Debug\FormuraleUkol1.exe
+C:\Users\Uživatel\Desktop\programko\FormuraleUkol1\FormuraleUkol1\bin\Debug\FormuraleUkol1.pdb
+C:\Users\Uživatel\Desktop\programko\FormuraleUkol1\FormuraleUkol1\obj\Debug\FormuraleUkol1.csproj.AssemblyReference.cache
+C:\Users\Uživatel\Desktop\programko\FormuraleUkol1\FormuraleUkol1\obj\Debug\FormuraleUkol1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uživatel\Desktop\programko\FormuraleUkol1\FormuraleUkol1\obj\Debug\FormuraleUkol1.Form1.resources
+C:\Users\Uživatel\Desktop\programko\FormuraleUkol1\FormuraleUkol1\obj\Debug\FormuraleUkol1.Properties.Resources.resources
+C:\Users\Uživatel\Desktop\programko\FormuraleUkol1\FormuraleUkol1\obj\Debug\FormuraleUkol1.csproj.GenerateResource.cache
+C:\Users\Uživatel\Desktop\programko\FormuraleUkol1\FormuraleUkol1\obj\Debug\FormuraleUkol1.csproj.CoreCompileInputs.cache
+C:\Users\Uživatel\Desktop\programko\FormuraleUkol1\FormuraleUkol1\obj\Debug\FormuraleUkol1.exe
+C:\Users\Uživatel\Desktop\programko\FormuraleUkol1\FormuraleUkol1\obj\Debug\FormuraleUkol1.pdb
